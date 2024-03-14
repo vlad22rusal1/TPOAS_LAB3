@@ -1,0 +1,15 @@
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.csproj.AssemblyReference.cache
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.AssemblyInfoInputs.cache
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.AssemblyInfo.cs
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.csproj.CoreCompileInputs.cache
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\bin\Debug\net6.0\SovrTech_2_3.exe
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\bin\Debug\net6.0\SovrTech_2_3.deps.json
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\bin\Debug\net6.0\SovrTech_2_3.runtimeconfig.json
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\bin\Debug\net6.0\SovrTech_2_3.dll
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\bin\Debug\net6.0\SovrTech_2_3.pdb
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.dll
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\refint\SovrTech_2_3.dll
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.pdb
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\SovrTech_2_3.genruntimeconfig.cache
+C:\Users\ЧАПАЛОХ\source\repos\SovrTech_2_3\SovrTech_2_3\obj\Debug\net6.0\ref\SovrTech_2_3.dll
